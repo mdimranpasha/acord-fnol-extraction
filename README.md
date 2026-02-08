@@ -61,7 +61,7 @@ Field: `file`
 
 ```bash
 curl -X POST "http://localhost:8085/acord/claims/process" \
-  -F "file=@C:/Users/imran pasha/Downloads/ACORD-Automobile-Loss-Notice-12.05.16.pdf"
+  -F "file=@ACORD-Automobile-Loss-Notice-12.05.16.pdf"
 ```
 
 ### 2) Process Raw Text
